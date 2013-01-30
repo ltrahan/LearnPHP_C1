@@ -1,0 +1,33 @@
+﻿Review - chapter 1
+
+1. What is HTML? What is XHTML? Name two differences between HTML and XHTML.
+
+HTML (hyper text markup language) is the language that tells browsers how to display content.  XHTMLis a variant of HTML.  Two differences are that in XHTML tags must be typed in lower case and all tags must be closed.
+
+2. What encoding is your IDE set to use, does it match the encoding specified in your generated web pages?
+
+Yes, they are both set to UTF-8.
+
+3. What is CSS and what is it used for? 
+
+
+CSS(Cascading Style Sheets) is a way to define the look and behavior (ie. text decoration and color) of content on a website.
+
+4. What file extension should PHP scripts have for your particular server?
+
+.php
+
+
+5. What is meant by web root directory?  What is the web root directory for your server?
+
+c:\\xampp\htdocs\   - where my source files for the web projects are stored
+
+
+6. how do you test PHP scripts?  What happens when they not run through a url.
+
+To test you run them through a URL, otherwise they'll not render and just appear like text on the screen.
+
+7. Name two ways that comments can be added to PHP code. Identify some ways you would use comments.
+
+Comments can be added by using // before the comment  # at the begining of the line   or with /*   */.  I would use comments to explain functions, identify files and help troubleshoot code later.
+
