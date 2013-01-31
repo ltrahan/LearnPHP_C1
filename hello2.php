@@ -8,7 +8,7 @@
     <body>
         <p>The following was created by PHP:
             <?php
-            print "<span style = \"font-weight:bold;\">Hello, world!</span>";
+            print "<span style=\"font-weight:bold;\">Hello, world!</span>";
             ?>
         </p>
     </body>
